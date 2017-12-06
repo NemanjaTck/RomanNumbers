@@ -1,1 +1,1 @@
-# RomanNumbers
+# JavaScript convertor (Roman numbers to Arabic)
